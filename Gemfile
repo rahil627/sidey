@@ -1,3 +1,5 @@
+# https://jekyllrb.com/docs/plugins/installation/
+
 source "https://rubygems.org"
 
 gem 'jekyll'

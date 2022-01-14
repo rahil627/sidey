@@ -30,10 +30,15 @@ sass:
   style:            :compressed
 
 plugins:
+  # official plugins
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap  
+
+  # already exists in github pages
+  #- jekyll-default-layout # not sure how it would understand if it's a page or post... from the folder?
   
+  # custom
   - jekyll-titles-from-headings
 
 collections:

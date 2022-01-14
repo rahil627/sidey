@@ -33,6 +33,8 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap  
+  
+  - jekyll-titles-from-headings
 
 collections:
   pages:

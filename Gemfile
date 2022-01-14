@@ -1,4 +1,5 @@
-# https://jekyllrb.com/docs/plugins/installation/
+# docs: https://jekyllrb.com/docs/plugins/installation/
+# list of plugins pre-installed by github pages: https://pages.github.com/versions/
 
 source "https://rubygems.org"
 
